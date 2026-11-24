@@ -3,3 +3,4 @@ The summary RAR document can be found on onedrive here (viewing access): https:/
 The TrialSimulator tutorial that can help code and evalaute RAR designs can be found here: https://zhangh12.github.io/TrialSimulator/talks/2026-nic-asa/#1
 
 The Trial_Function code, an example function that allows for easy comparison of RAR designs, can be found in this repository. 
+In the code, IA_1,2,3 are the interim analysis code, final_action is the final analysis code, MyPackageV2 is a c++ code for doing efficient beta calculations, only necessary for BOP2 testing and BRAR. 
